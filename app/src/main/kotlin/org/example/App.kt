@@ -12,4 +12,8 @@ class App {
 
 fun main() {
     println(App().greeting)
+    var numero = 9
+    val algo = "arbol"
+    println("Hay $numero")
+    println("Hay $algo")
 }
